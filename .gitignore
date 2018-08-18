@@ -34,3 +34,8 @@
 *.tlog
 *.log
 *.user
+*.pdb
+*.idb
+*.tlog
+*.db
+*.db
